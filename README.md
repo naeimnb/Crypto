@@ -9,6 +9,6 @@
 7️⃣ chikuspan = close price moved to 26 period before
 
 
-🐤 CL = conversation line
-🐤 PH = period High
-🐤 PL = period Low
+🐤 CL = conversation line.
+🐤 PH = period High.
+🐤 PL = period Low.
